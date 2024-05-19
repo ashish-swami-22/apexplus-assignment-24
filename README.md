@@ -1,3 +1,14 @@
+# Scenario Vehicle Management Application
+
+This application is built using React.js for the frontend and Node.js for the backend. It allows users to create, display, update, and delete scenarios and vehicles. A scenario can have multiple vehicles, and vehicles can move based on user inputs.
+
+## Features
+
+- **Scenario Management**: Create, read, update, and delete scenarios.
+- **Vehicle Management**: Create, read, update, and delete vehicles within a scenario.
+- **Simulation**: Vehicles move according to their speed and direction when the simulation is started.
+- **Validation**: Ensures that vehicle positions do not exceed the container boundaries.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
