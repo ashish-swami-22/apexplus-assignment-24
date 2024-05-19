@@ -9,6 +9,14 @@ This application is built using React.js for the frontend and Node.js for the ba
 - **Simulation**: Vehicles move according to their speed and direction when the simulation is started.
 - **Validation**: Ensures that vehicle positions do not exceed the container boundaries.
 
+### FRONTEND
+- React
+- CSS
+- Framer motion
+### BACKEND
+- npm install
+- json server
+- 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
